@@ -9,6 +9,7 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 3. Data Science do Zero: Primeiras Regras com o Python (Joel Grus)
 
 ## Certificados
+![Text Alt](certificado_dev_aprender)
 
 
 ## Alfredo de Morais | Desenvolvedor de Aplicações Python
