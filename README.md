@@ -35,8 +35,6 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 
 ![Text Alt](outros_arquivos/machine.jpg)
 
-<img src="https://github.com/alfmorais/estudos_em_python/tree/main/outros_arquivos/machine.jpg" width="250">
-
 ## Certificados
 
 ![Text Alt](outros_arquivos/certficado_dev_aprender.png)
