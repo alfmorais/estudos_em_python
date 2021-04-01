@@ -21,19 +21,11 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 ## Estudos de Livros:
 1. Curso Intensivo de Python: Uma introdução prática e baseada em projetos à programação (Eric Matthes) 
 
-![Text Alt](outros_arquivos/imagem_0.jpg)
-
 2. Automatize Tarefas Maçantes com Python: Programação Prática para verdadeiros iniciantes (Al Sweigart) 
-
-![Text Alt](outros_arquivos/imagem_1.jpg)
 
 3. Data Science do Zero: Primeiras Regras com o Python (Joel Grus) 
 
-![Text Alt](outros_arquivos/imagem_2.jpg)
-
 4. Machine Learning - Guia de Referência Rápida (Matt Harrison)
-
-![Text Alt](outros_arquivos/machine.jpg)
 
 ## Certificados
 
