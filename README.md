@@ -1,4 +1,4 @@
-# Estudos em Python
+# Estudos em Python :snake: 
 
 ## META:
 Conseguir a transição de carreira para área de DESENVOLVIMENTO PYTHON - 100% REMOTO. 
