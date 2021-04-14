@@ -18,7 +18,7 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 |No.  | Descrição do Curso                                                               | Status            | (%) |
 |:---:|:---                                                                              | :---:             |:---:|
 |1    |Curso Pythonista Profissional Dev Aprender - Jhonatan Souza                       |:heavy_check_mark: | 100 |
-|2    |Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Luiz Otávio Miranda|:large_blue_circle:| 10  |
+|2    |Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Luiz Otávio Miranda|:large_blue_circle:| 15  |
 |3    |Python Para Analise de Dados - Data Science Academy                               |:large_blue_circle:| 50  |
 |4    |Visualizações 2D e 3D com Python - Geek University                                |:white_circle:     | 0   |
 |5    |Django 3 - Python Backend Web Development - Kazi Ariyan                           |:large_blue_circle:| 15  |
