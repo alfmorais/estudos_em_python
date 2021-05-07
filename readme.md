@@ -19,7 +19,7 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 |:---:|:---                                                                              | :---:             |:---:|
 |1    |Curso Pythonista Profissional Dev Aprender - Jhonatan Souza                       |:heavy_check_mark: | 100 |
 |2    |Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Luiz Otávio Miranda|:large_blue_circle:| 15  |
-|3    |Estrutura de Dados e Algoritmos em Python - Jones Granaty                         |:large_blue_circle:| 10  |
+|3    |Estrutura de Dados e Algoritmos em Python - Jones Granaty                         |:large_blue_circle:| 17  |
 |4    |Python Para Analise de Dados - Data Science Academy                               |:large_blue_circle:| 50  |
 |5    |Visualizações 2D e 3D com Python - Geek University                                |:white_circle:     | 0   |
 |6    |Django 3 - Python Backend Web Development - Kazi Ariyan                           |:large_blue_circle:| 15  |
