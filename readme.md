@@ -8,12 +8,6 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 
 ## Cursos de Python
 
-|Informações | Figura            |
-|:---        | :---:             |
-|Concluido   |:heavy_check_mark: |
-|Não Iniciado|:white_circle:     |
-|Cursando    |:large_blue_circle:|
-
 
 |No.  | Descrição do Curso                                                               | Status            | (%) |
 |:---:|:---                                                                              | :---:             |:---:|
@@ -28,10 +22,6 @@ Este repositório tem como objetivo incluir trechos de codigos, estudos, algorit
 |9    |Machine Learning e Data Science com Python - Jones Granaty                        |:white_circle:     | 0   |
 |10   |Data Science de A a Z - Felipe Mafra                                              |:white_circle:     | 0   |
 |11   |Formação Engenheiro de Deep Learning e Machine Learning - Fernando Amaral         |:white_circle:     | 0   |
-
-## Certificados
-
-![Text Alt](outros_arquivos/certficado_dev_aprender.png)
 
 
 ## Alfredo de Morais | Desenvolvedor de Aplicações Python
